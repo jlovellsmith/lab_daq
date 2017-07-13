@@ -1,0 +1,7 @@
+file name,_log_{}.csv
+file name avg,_log_AVG_{}.csv
+instruments,VaisalaHMT330
+times,200000
+mesurement interval,30
+cycles,1
+
