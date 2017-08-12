@@ -1,0 +1,4 @@
+file name,K6prep_log_{}.csv
+file name avg, K6prep_log_AVG_{}.csv
+instruments,TS3900,TS1_MBW373LX,TS2_RHS373LX
+mesurement interval,30
